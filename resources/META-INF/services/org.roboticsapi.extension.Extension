@@ -1,0 +1,4 @@
+org.roboticsapi.kuka.youbot.extension.YoubotExtension
+org.roboticsapi.kuka.youbot.javarcc.extension.KukaYoubotJavaRCCExtension
+org.roboticsapi.kuka.youbot.runtime.extension.SoftRobotYoubotExtension
+org.roboticsapi.kuka.youbot.runtime.extension.SoftRobotYoubotEthercatExtension
