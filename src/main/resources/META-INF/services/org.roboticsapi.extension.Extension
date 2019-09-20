@@ -1,0 +1,6 @@
+org.roboticsapi.device.kuka.youbot.extension.YoubotExtension
+org.roboticsapi.device.kuka.youbot.javarcc.extension.YoubotJavaRccExtension
+org.roboticsapi.device.kuka.youbot.runtime.rpi.extension.YoubotRuntimeExtension
+org.roboticsapi.device.kuka.youbot.simulation.extension.YoubotSimulationExtension
+org.roboticsapi.device.kuka.youbot.visualization.YoubotVisualizationExtension
+org.roboticsapi.device.kuka.youbot.collision.extension.YoubotCollisionExtension
